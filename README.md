@@ -17,3 +17,14 @@ NetSpectre; ağ katmanındaki anomalileri tespit etmek, açık yüzeyleri harita
 
 ---
 *Command & Control: Leny*
+
+
+## 📱 Termux Üzerinden Kurulum ve Kullanım
+
+Eğer aracı Android (Termux) üzerinde çalıştırmak istiyorsan, terminale sırasıyla şu komutları yazman yeterlidir:
+
+### 1. Gereksinimleri Yükle
+```bash
+pkg update && pkg upgrade
+pkg install python git -y
+pip install rich pyfiglet
