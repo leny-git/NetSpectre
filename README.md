@@ -1,5 +1,9 @@
 # NetSpectre // Advanced Reconnaissance Core
 
+<p align="center">
+  <img src="IMG_20260920_013908.jpg" alt="NetSpectre Çalışırken" width="80%">
+</p>
+
 > "Information is the ultimate vector. If you can't see the target, you've already lost."
 
 ## 👁️ Operasyonel Amaç
