@@ -17,6 +17,7 @@ Eğer aracı Android (Termux) üzerinde hatasız çalıştırmak istiyorsan, ter
 
 ### 1. Sistem Paketlerini Güncelle ve Gereksinimleri Yükle
 pkg update && pkg upgrade -y
+
 pkg install python git -y
 
 ### 2. Repoyu Klonla ve Klasöre Gir
